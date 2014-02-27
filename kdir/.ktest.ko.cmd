@@ -1,0 +1,1 @@
+cmd_/home/hyc/work/netlink/kdir/ktest.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.8.0-36-generic/scripts/module-common.lds --build-id  -o /home/hyc/work/netlink/kdir/ktest.ko /home/hyc/work/netlink/kdir/ktest.o /home/hyc/work/netlink/kdir/ktest.mod.o
